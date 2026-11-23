@@ -1,0 +1,5 @@
+venv_yoloCoco/
+.venv/
+__pycache__/
+*.pyc
+tmp/
